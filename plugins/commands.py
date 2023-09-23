@@ -28,7 +28,7 @@ async def start(client, message):
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/HKs_Bots"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/moviehubsearchgroup')
                 ],[
-                  InlineKeyboardButton('♦ Premium  Plan ♦', callback_data='source')
+                  InlineKeyboardButton('♦ Premium  Plan ♦', callback_data="shortlink_info")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -47,16 +47,15 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/moviehubsearchgroup')
+                    InlineKeyboardButton('👨‍💻 Owner 👨‍💻', url="https://t.me/Mr_HKs"),
+                    InlineKeyboardButton('🎬 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🎬', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
+                    InlineKeyboardButton('🔎 Hᴇʟᴘ 🔍', callback_data='help'),
+                    InlineKeyboardButton('♦ Aʙᴏᴜᴛ ♦', callback_data='about')
                 ],[
-                  InlineKeyboardButton('♦ Premium  Plan ♦', callback_data='source')
-                ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
-                  ]]
+                    InlineKeyboardButton('🔗 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url=CHNL_LNK)
+                  ],[
+                    InlineKeyboardButton('💰 Premium Plan 💸', callback_data="shortlink_info")]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEBoktky-s51qqbpVrE7MSuXt5_CE1M8AAClwoAAp2TYFYBTQhDyiNDKx4E") 
         await asyncio.sleep(1)
@@ -101,16 +100,15 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/moviehubsearchgroup')
+                    InlineKeyboardButton('👨‍💻 Owner 👨‍💻', url="https://t.me/Mr_HKs"),
+                    InlineKeyboardButton('🎬 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🎬', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
+                    InlineKeyboardButton('🔎 Hᴇʟᴘ 🔍', callback_data='help'),
+                    InlineKeyboardButton('♦ Aʙᴏᴜᴛ ♦', callback_data='about')
                 ],[
-                  InlineKeyboardButton('♦ Premium  Plan ♦', callback_data='source')
-                ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
-                  ]]
+                    InlineKeyboardButton('🔗 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url=CHNL_LNK)
+                  ],[
+                    InlineKeyboardButton('💰 Premium Plan 💸', callback_data="shortlink_info")]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
             photo=random.choice(PICS),

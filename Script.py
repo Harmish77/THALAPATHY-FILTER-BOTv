@@ -5,9 +5,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tamilmoviesrio2_bot>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Mr_HKs>Mr_HKs</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/its_me_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Mr_HKs'>Mr_HKs</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -19,10 +19,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/Teamrioupdates2/3'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://t.me/main_movie_hub'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/Mr_HKs'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
@@ -45,7 +45,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Teamrioupdates2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/main_movie_hub)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -166,9 +166,14 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    SHORTLINK_INFO = """
-🫵 Select Your Language And Earn Money 💰"""
+    SHORTLINK_INFO = """
+<b>🌟 "PREMIUM MEMBERSHIP" 🌟
 
+🥁 Buy 'Premium Membership' & Get Movies, Series, etc., In Direct Files Without Any 🔗Links Or Ads...!
+
+🎁 How To Buy Premium? 
+📲 Contact @Mr_HKs </b>
+"""
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
 
@@ -414,7 +419,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-BOT WORKING PROPERLY"""
+
+BOT WORKING PROPERLY"""
  
     TAMIL_INFO = """
 ஏய் <a href='tg://settings'>My Friend</a> 
@@ -429,11 +435,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த THALAPATHY-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Moviehub_moviebot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -456,11 +462,11 @@ Hey <a href='tg://settings'>My Friend</a>
 
  How and what to do
 
- Step 1: Administer this THALAPATHY-FILTER-BOT bot to your group
+ Step 1: Administer this Moviehub_moviebot bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  Add a video
 
@@ -483,11 +489,11 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ THALAPATHY-FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ Moviehub_moviebot బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ గడువు: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  వీడియోను జోడించండి
 
@@ -514,7 +520,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक omegalinks.in 4b392f8eb6ad711fbe58
+ एक्सप: /शॉर्टलिंक greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  एक वीडियो जोड़ें
 
@@ -541,7 +547,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ കാലഹരണപ്പെടൽ: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -564,11 +570,11 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس THALAPATHY-FILTER-BOT بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس Moviehub_moviebot بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  ایک ویڈیو شامل کریں۔
 
@@ -591,11 +597,11 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ THALAPATHY-FILTER-BOT બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Moviehub_moviebot બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  વિડિઓ ઉમેરો
 
@@ -621,7 +627,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -643,11 +649,11 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই THALAPATHY-FILTER-BOT বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই Moviehub_moviebot বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink greymatterslinks.in c762b2ab920b006a9bf7eed729589026d1da16b6
 
  একটি ভিডিও যোগ করুন
 
@@ -661,13 +667,8 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/its_me_TG'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+Dev  [Owner of this bot ]<a href='https://t.me/Mr_HKs'>Mr_HKs</a>
 
--Dev 2 <a href='https://t.me/Kgashok04'>ASHOK</a>
-
--Dev 3 <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
-
-- Dev 4 <a href='https://t.me/TeamEvamaria'>TEAM EVAMARIA</a>
 """
 
 

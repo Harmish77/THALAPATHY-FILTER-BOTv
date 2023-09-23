@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/efeaec39efb273b2d372a.jpg" alt="Thalapathy-filter-bot Logo">
+  <img src="LOGO" alt="Thalapathy-filter-bot Logo">
 </p>
 <h1 align="center">
   THALAPATHY-FILTER-BOT
@@ -106,13 +106,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/TeamHMT/Auto-search-tamil-bot/blob/main/info.py) for more optional variables
+* Check [info.py](https://github.com/Harmish77/THALAPATHY-FILTER-BOTv/blob/main/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TeamHMT/Auto-search-tamil-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Harmish77/THALAPATHY-FILTER-BOTv">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -124,7 +124,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TeamHMT/Auto-search-tamil-bot&branch=main&name=Auto-search-tamil-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Harmish77/THALAPATHY-FILTER-BOTv&branch=main&name=THALAPATHY-FILTER-BOTv)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -151,7 +151,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TeamHMT/Auto-search-tamil-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/Harmish77/THALAPATHY-FILTER-BOTv/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -159,7 +159,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/TeamHMT/Auto-search-tamil-bot
+git clone https://github.com/Harmish77/THALAPATHY-FILTER-BOTv
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
